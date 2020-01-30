@@ -44,6 +44,18 @@
   color: #009E2C;
 }
 
+.comparison .tickred {
+  color: rgb(248, 11, 11);
+}
+
+.comparison .ex {
+  color: rgb(248, 11, 11);
+}
+ .ex {
+  color: rgb(248, 11, 11);
+
+}
+
 .comparison th {
   font-weight: normal;
   padding: 0;
