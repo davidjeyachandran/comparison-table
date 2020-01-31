@@ -32,6 +32,7 @@
   display: none;
 }
 
+
 .comparison .compare-row {
   background: #F5F5F5;
 }
@@ -48,13 +49,14 @@
   color: rgb(248, 11, 11);
 }
 
-.comparison .ex {
+.comparison .exclamation {
   color: rgb(248, 11, 11);
 }
- .ex {
+ .exclamation {
   color: rgb(248, 11, 11);
 
 }
+
 
 .comparison th {
   font-weight: normal;
@@ -188,6 +190,7 @@
     top: 0;
     left: 0;
   }
+  
 
   .comparison .qbse,
   .comparison .qbo {
@@ -203,3 +206,4 @@
     font-size: 13px;
   }
 }
+
